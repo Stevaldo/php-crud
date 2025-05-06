@@ -1,0 +1,12 @@
+{
+    "name": "stevaldo/php-crud",
+    "description": "Simple native PHP CRUD package",
+    "type": "library",
+    "autoload": {
+      "psr-4": {
+        "PhpCrud\\": "src/"
+      }
+    },
+    "license": "MIT"
+  }
+  
